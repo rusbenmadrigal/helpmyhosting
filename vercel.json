@@ -1,0 +1,41 @@
+{
+  "redirects": [
+    {
+      "source": "/out/banahosting/",
+      "destination": "https://manage.banahosting.com/aff.php?aff=4780",
+      "statusCode": 302
+    },
+    {
+      "source": "/out/siteground/",
+      "destination": "https://www.siteground.es/index.htm?afcode=1fa5d14f65fdca349c657e8f2e4acdbe",
+      "statusCode": 302
+    },
+      {
+      "source": "/out/raiola/",
+      "destination": "https://gestiondecuenta.eu/aff.php?aff=5193",
+      "statusCode": 302
+    },
+    {
+      "source": "/out/hostinger/",
+      "destination": "https://www.hostg.xyz/aff_c?offer_id=6&aff_id=110650",
+      "statusCode": 302
+    },
+    {
+      "source": "/out/godaddy/",
+      "destination": "https://www.godaddy.com/",
+      "statusCode": 302
+    },
+    {
+      "source": "/out/hostgator/",
+      "destination": "https://www.hostgator.com/",
+      "statusCode": 302
+    },
+    {
+      "source": "/out/a2hosting/",
+      "destination": "https://www.a2hosting.com/",
+      "statusCode": 302
+    }
+  ]
+}
+
+
