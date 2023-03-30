@@ -11,7 +11,7 @@ class Contact extends Component {
         return (
             <>
             <NextSeo
-          title="Contactar con expertos hosting | HelpMyHosting"
+          title="Contactar con expertos Hosting | HelpMyHosting"
           description="Puedes contactar con nuestros expertos en servicio hosting y creación de webs. Nuestro soporte es totalmente gratuito, respondemos en 24 horas o menos."
           canonical="https://helpmyhosting.com/contacto/"
         />
