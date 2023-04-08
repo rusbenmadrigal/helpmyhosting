@@ -18,7 +18,7 @@ class Besthostingindex extends Component {
     return (
       <>
         <NextSeo
-          title="Mejores Hosting Marzo 2023 Elegido Por Expertos | HelpMyHosting"
+          title="Mejores Hosting Abril 2023 Elegido Por Expertos | HelpMyHosting"
           description="Encuentra los mejores hosting 2023 elegidos por nuestros expertos en hosting. Además, descuentos de hasta el 99% en el primer mes de contratación"
           canonical="https://helpmyhosting.com/mejor-hosting/"
         />
