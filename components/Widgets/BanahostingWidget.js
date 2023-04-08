@@ -7,7 +7,7 @@ class BanahostingWidget extends Component {
         <script
           defer
           async
-          src="https://cdn.trustindex.io/loader.js?88f5c3d7804e5944e15f6312b6"
+          src="https://cdn.trustindex.io/loader.js?f7f56fa14e39305c4e86cc40cbf"
         ></script>
       </div>
     );
