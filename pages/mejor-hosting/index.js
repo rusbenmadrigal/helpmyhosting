@@ -27,7 +27,7 @@ class Besthostingindex extends Component {
 
         <PageBanner
           pageTitle="Los Mejores Hosting de 2023"
-          breadcrumbTextTwo="Actualizado el: 3 de marzo del 2023"
+          breadcrumbTextTwo="Actualizado el: 3 de abril del 2023"
           breadcrumbUrl="/"
         />
 
