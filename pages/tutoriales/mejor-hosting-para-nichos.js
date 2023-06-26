@@ -5,6 +5,7 @@ import PageBanner from "../../components/Common/PageBanner";
 import Footer from "../../components/Layouts/Footer";
 import Russ from "../../components/Authors/russ";
 import BanahostingCta from "../../components/Cta/BanahostingCta";
+import { BreadcrumbJsonLd } from "next-seo";
 
 class SingleBlog extends Component {
   render() {
@@ -29,7 +30,26 @@ class SingleBlog extends Component {
             ],
           }}
         />
-       
+        <BreadcrumbJsonLd
+          itemListElements={[
+            {
+              position: 1,
+              name: "Inicio",
+              item: "https://helpmyhosting.com/",
+            },
+            {
+              position: 2,
+              name: "Tutoriales",
+              item: "https://helpmyhosting.com/tutoriales/",
+            },
+            {
+              position: 3,
+              name: "Hosting Para Nichos",
+              item: "https://helpmyhosting.com/tutoriales/hosting-para-nichos/",
+            },
+          ]}
+        />
+
         <NavbarTwo />
 
         <PageBanner
