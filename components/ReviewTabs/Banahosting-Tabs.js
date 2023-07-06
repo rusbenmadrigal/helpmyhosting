@@ -127,7 +127,7 @@ class BanahostingTabs extends Component {
                         tecnología de vanguardia la cual incluye, pero no limita
                         a una red 100% Juniper, CloudLinux Enterprise y un
                         centro de datos de alta calidad el cual tiene múltiples
-                        conexiones con red GIGe.
+                        conexiones con red GIGE.
                       </p>
                       <BanahostingReseller />
                     </div>
