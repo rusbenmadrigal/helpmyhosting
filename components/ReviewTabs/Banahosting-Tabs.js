@@ -99,7 +99,7 @@ class BanahostingTabs extends Component {
                         todos los usuarios quienes están comenzando un proyecto
                         web, ya que el precio es muy accesible y la calidad de
                         hosting es mu buena, sin embargo, si usted ya tiene un
-                        sitio web con 100,000 visitas mensuales, lo mejor seria
+                        sitio web con 100,000 visitas mensuales, lo mejor sería
                         que opte por un plan de mayor potencia o bien vaya
                         pensando en un servidor dedicado para correr su
                         aplicación web.
