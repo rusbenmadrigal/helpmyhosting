@@ -26,7 +26,7 @@ class Acerca extends Component {
           <div className="container">
             <p>
               HelpMyHosting.com cuenta con la experiencia de especialistas en el
-              sector de TI y Marketing los cuales le brindarán recomendaciones
+              sector de TI y Marketing digital los cuales le brindarán recomendaciones
               profesionales en cada uno de los servicios hostings que
               promocionamos. Nuestros expertos también le brindan asesoría
               gratuita sobre temas de SEO, diseño y marketing digital, contenido
