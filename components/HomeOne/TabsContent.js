@@ -732,7 +732,7 @@ class TabsContent extends Component {
                 </div>
                 <br />
                 <div className="tab-shape">
-                  <img src="/images/raiola-lg.svg" alt="image" />
+                  <img src="/images/wordpresslogo.svg" alt="image" />
                 </div>
               </div>
 
