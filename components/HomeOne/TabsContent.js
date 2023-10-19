@@ -83,11 +83,11 @@ class TabsContent extends Component {
                       <h2>Los 3 Mejores Hosting 2023</h2>
                       <p>
                         A continuación podrás encontrar los{" "}
-                        <strong> en español</strong>{" "}
-                        categorizados por nuestros expertos, estos servicios de
-                        web hosting son ideales para quien está iniciando un
-                        proyecto, por ejemplo: <strong>tiendas</strong>,{" "}
-                        <strong>blogs</strong>, <strong>webs de viajes</strong>,{" "}
+                        <strong> en español</strong> categorizados por nuestros
+                        expertos, estos servicios de web hosting son ideales
+                        para quien está iniciando un proyecto, por ejemplo:{" "}
+                        <strong>tiendas</strong>, <strong>blogs</strong>,{" "}
+                        <strong>webs de viajes</strong>,{" "}
                         <strong>Startups</strong>, etc. Nuestros expertos han
                         tomado como referencia todas las necesidades que nos han
                         consternado nuestros usuarios, enfocándonos así en dar
@@ -732,7 +732,7 @@ class TabsContent extends Component {
                 </div>
                 <br />
                 <div className="tab-shape">
-                  <img src="/images/tab/wordpresslogo.svg" alt="image" />
+                  <img src="/images/raiola-lg.svg" alt="image" />
                 </div>
               </div>
 
