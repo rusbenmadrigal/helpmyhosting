@@ -21,7 +21,7 @@ class Besthostingindex extends Component {
 
         <PageBanner
           pageTitle="Mejor SSL Hosting 2023"
-          breadcrumbTextTwo="Actualizado el: 31 de julio del 2023"
+          breadcrumbTextTwo="Actualizado: octubre de 2023"
           breadcrumbUrl="/"
         />
 

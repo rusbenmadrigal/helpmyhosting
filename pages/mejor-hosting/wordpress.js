@@ -20,7 +20,7 @@ class Besthostingindex extends Component {
         <NavbarTwo />
         <PageBanner
           pageTitle="Mejor Hosting WordPress 2023"
-          breadcrumbTextTwo="Actualizado el:16 de julio del 2023"
+          breadcrumbTextTwo="Actualizado: octubre de 2023"
           breadcrumbUrl="/"
         />
 

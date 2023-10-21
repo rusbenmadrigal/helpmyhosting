@@ -45,7 +45,7 @@ class BesthostingCostaRica extends Component {
         <NavbarTwo />
         <CRbanner
           pageTitle="Mejores Hosting Costa Rica 2023"
-          breadcrumbTextTwo="Actualización: Diciembre 2022"
+          breadcrumbTextTwo="Actualización: octubre de 2023"
         />
         <div className="ptb-100">
           <div className="container">

@@ -25,7 +25,7 @@ class SingleProject extends Component {
 
         <PageBanner
           pageTitle="Opiniones de Expertos y Usuarios sobre SiteGround 2023"
-          breadcrumbTextTwo="Actualizado el: 28 de junio de 2023"
+          breadcrumbTextTwo="Actualizado: octubre de 2023"
           breadcrumbUrl="/"
         />
         <section className="projPect-details-area ptb-100">

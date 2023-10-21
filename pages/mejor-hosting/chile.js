@@ -45,7 +45,7 @@ class BesthostingChile extends Component {
         <NavbarTwo />
         <CLbanner
           pageTitle="Mejores Hosting Chile 2023"
-          breadcrumbTextTwo="Actualización: Marzo 2023"
+          breadcrumbTextTwo="Actualización: octubre de 2023"
         />
         <div className="ptb-100">
           <div className="container">

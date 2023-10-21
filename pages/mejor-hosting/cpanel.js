@@ -23,7 +23,7 @@ class Besthostingindex extends Component {
 
         <PageBanner
           pageTitle="Mejor cPanel Hosting 2023"
-          breadcrumbTextTwo="Actualizado el: 20 de julio del 2023"
+          breadcrumbTextTwo="Actualizado: octubre de 2023"
           breadcrumbUrl="/"
         />
 
