@@ -19,7 +19,7 @@ class Index extends Component {
         <Head>
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <title>
-            Comparador Hosting Web por Expertos 2023 | Cuál es el mejor?
+            Comparador Hosting Web por Expertos 2024 | Cuál es el mejor?
           </title>
           <meta
             name="description"
