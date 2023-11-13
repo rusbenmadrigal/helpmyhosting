@@ -28,7 +28,7 @@ class BanahostingTabs extends Component {
         <div className="container">
           <div className="section-title">
             <hr className="My-3" />
-            <h3>Planes Banahosting 2023</h3>
+            <h3>Planes Banahosting 2024</h3>
           </div>
 
           <div className="tab boosting-list-tab">

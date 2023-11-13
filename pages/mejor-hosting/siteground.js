@@ -16,16 +16,16 @@ class SingleProject extends Component {
     return (
       <>
         <NextSeo
-          title="SiteGround Opinión De Expertos y Usuarios 2023 | HelpMyHosting"
-          description="Opiniones de Expertos y Usuarios sobre SiteGround 2023. Descubre en que casos y para que tipos de sitios web es recomendable utilizar SiteGround."
+          title="SiteGround Opinión De Expertos y Usuarios 2024 | HelpMyHosting"
+          description="Opiniones de Expertos y Usuarios sobre SiteGround 2024. Descubre en que casos y para que tipos de sitios web es recomendable utilizar SiteGround."
           canonical="https://helpmyhosting.com/mejor-hosting/siteground/"
         />
 
         <NavbarTwo />
 
         <PageBanner
-          pageTitle="Opiniones de Expertos y Usuarios sobre SiteGround 2023"
-          breadcrumbTextTwo="Actualizado: octubre de 2023"
+          pageTitle="Opiniones de Expertos y Usuarios sobre SiteGround 2024"
+          breadcrumbTextTwo="Actualizado: octubre de 2024"
           breadcrumbUrl="/"
         />
         <section className="projPect-details-area ptb-100">

@@ -15,7 +15,7 @@ class AboutContent extends Component {
                         <div className="col-lg-6 col-md-12">
                             <div className="about-area-content">
                                 <span>Tendencia</span>
-                                <h3>Comparador Hosting 2023</h3>                    
+                                <h3>Comparador Hosting 2024</h3>                    
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                             </div>
 

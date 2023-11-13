@@ -23,7 +23,7 @@ class MainBanner extends Component {
                 <div className="row align-items-center">
                   <div className="col-lg-6 col-md-12">
                     <div className="main-banner-content">
-                      <h1>Top Hosting 2023</h1>
+                      <h1>Top Hosting 2024</h1>
                       <p>
                         Opiniones profesionales de los mejores servicios de
                         hosting en español, además creamos contenidos

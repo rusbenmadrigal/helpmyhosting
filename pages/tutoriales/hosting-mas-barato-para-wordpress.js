@@ -55,7 +55,7 @@ class SingleBlog extends Component {
             </p>
             <p>
               De acuerdo con la lista de{" "}
-              <a href="/mejor-hosting/">mejores hosting 2023</a>, BanaHosting
+              <a href="/mejor-hosting/">mejores hosting 2024</a>, BanaHosting
               encabeza la lista de proveedores de hosting WordPress con el mejor
               precio y con los beneficios más altos. Hemos dado seguimiento y
               pruebas en diferentes proveedores de alojamiento web, si bien

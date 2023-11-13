@@ -10,7 +10,7 @@ class WhyChooseUs extends Component {
             <div className="col-lg-6 col-md-12">
               <div className="choose-content-area">
                 <span>Nuestra Misión</span>
-                <h3>Elegir el Mejor Hosting 2023</h3>
+                <h3>Elegir el Mejor Hosting 2024</h3>
                 <p>
                   Nuestra misión es lograr que usted pueda comprar el mejor
                   hosting, nosotros hacemos el trabajo complicado de
@@ -24,7 +24,7 @@ class WhyChooseUs extends Component {
                   <i className="flaticon-check-mark"></i>
                   <h4>Agregamos guías paso a paso</h4>
                   <p>
-                    Durante el 2023 estaremos agregando guías paso a paso para
+                    Durante el 2024 estaremos agregando guías paso a paso para
                     que puedas sacarle el máximo provecho a tu hosting así como
                     aprender a mejorar el SEO de tu proyecto.
                   </p>

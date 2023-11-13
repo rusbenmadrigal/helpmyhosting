@@ -14,7 +14,7 @@ class MejorHostingSiteground extends Component {
         <div className="container">
           <div className="faq-area-content">
             <span>3: SiteGround</span>
-            <h2>Opiniones SiteGround 2023</h2>
+            <h2>Opiniones SiteGround 2024</h2>
             <p>
               SiteGround es uno de los Hostings más reconocidos a nivel mundial,
               en lo personal no me gusta tanto, esto principalmente se debe a

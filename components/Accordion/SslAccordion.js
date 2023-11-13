@@ -78,7 +78,7 @@ class SslAccordion extends Component {
                       <p>
                         SiteGround ofrece servicio SSL gratuito para todos sus
                         productos, esto es algo reciente, ya que antes del julio
-                        2023 el servicio de SSL no estaba incluido en todos los
+                        2024 el servicio de SSL no estaba incluido en todos los
                         servicios de hosting ofrecidos por este proveedor. El
                         hecho que ahora incluyan el servicio de SSL es una gran
                         ventaja para quienes adquieren servicios con SiteGround,

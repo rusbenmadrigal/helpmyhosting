@@ -15,11 +15,11 @@ class FeaturesContent extends Component {
                                 <br/>
                                 <p>Nuestros expertos hacen constantes análisis de los mejores hosting web ya sea para WordPress o bien para cualquier otro CMS,  de manera que usted pueda comprar un hosting que realmente se adapte a sus necesidades y que además de un buen precio, cumpla con altos estándares de rendimiento.</p>
                                 <br/>
-                                <p>En la sección de abajo, hemos listado algunos de los mejores hosting web para el 2023, algunos de los principales aspectos que debe tener un buen hosting son: 99.99 Uptime,  velocidad y un excelente servicio al cliente, tenga en cuenta que, es mejor tomarse unos minutos para analizar las opciones de nuestros expertos en hosting que, comprar un hosting sin previa recomendación, puede traerle dolores de cabeza y gastos innecesarios.</p>
+                                <p>En la sección de abajo, hemos listado algunos de los mejores hosting web para el 2024, algunos de los principales aspectos que debe tener un buen hosting son: 99.99 Uptime,  velocidad y un excelente servicio al cliente, tenga en cuenta que, es mejor tomarse unos minutos para analizar las opciones de nuestros expertos en hosting que, comprar un hosting sin previa recomendación, puede traerle dolores de cabeza y gastos innecesarios.</p>
 
                                 <div className="features-btn">
                                     <Link href="/mejor-hosting/">
-                                        <a className="features-btn-one">Mejor Hosting 2023</a>
+                                        <a className="features-btn-one">Mejor Hosting 2024</a>
                                     </Link>
                                 </div>
                             </div>

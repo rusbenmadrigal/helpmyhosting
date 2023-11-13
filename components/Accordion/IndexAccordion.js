@@ -13,7 +13,7 @@ class IndexAccordion extends Component {
       <section className="faq-section ptb-100">
         <div className="container">
           <div className="faq-area-content">
-            <span>Faqs Hosting 2023</span>
+            <span>Faqs Hosting 2024</span>
             <h3>¿Cómo saber cuál es el mejor hosting?</h3>
           </div>
 

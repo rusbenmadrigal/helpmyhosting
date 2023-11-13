@@ -13,7 +13,7 @@ class MejorHostingHostgator extends Component {
         <div className="container">
           <div className="faq-area-content">
             <span>6: HostGator</span>
-            <h2>Opiniones HostGator 2023</h2>
+            <h2>Opiniones HostGator 2024</h2>
             <p>
               HostGator fue uno de mis Hostings web favoritos por muchos años,
               de hecho fue uno de los primeros que utilice cuando inicié

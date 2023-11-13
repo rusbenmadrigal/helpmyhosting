@@ -16,16 +16,16 @@ class SingleProject extends Component {
     return (
       <>
         <NextSeo
-          title="Opiniones de Expertos y Usuarios sobre HostingGer 2023 | HelpMyHosting"
-          description="Opiniones de Expertos y Usuarios sobre HostingGer 2023. Descubre en que casos y para que tipos de sitios web es recomendable utilizar HostingGer."
+          title="Opiniones de Expertos y Usuarios sobre HostingGer 2024 | HelpMyHosting"
+          description="Opiniones de Expertos y Usuarios sobre HostingGer 2024. Descubre en que casos y para que tipos de sitios web es recomendable utilizar HostingGer."
           canonical="https://helpmyhosting.com/mejor-hosting/hostinger/"
         />
 
         <NavbarTwo />
 
         <PageBanner
-          pageTitle="Opiniones de Expertos y Usuarios sobre HostingGer 2023"
-          breadcrumbTextTwo="Actualizado: octubre de 2023"
+          pageTitle="Opiniones de Expertos y Usuarios sobre HostingGer 2024"
+          breadcrumbTextTwo="Actualizado: octubre de 2024"
           breadcrumbUrl="/"
         />
         <section className="projPect-details-area ptb-100">

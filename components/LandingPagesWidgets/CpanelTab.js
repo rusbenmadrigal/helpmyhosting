@@ -27,14 +27,14 @@ class CpanelTab extends Component {
       <section className="tab-section">
         <div className="container">
           <div className="section-title">
-            <h3>El Mejor cPanel Hosting 2023</h3>
+            <h3>El Mejor cPanel Hosting 2024</h3>
           </div>
           <div className="container"></div>
           <div className="container">
             <div className="content">
               <p>
                 De acuerdo con nuestra experiencia, hemos elegido a BanaHosting
-                como el <strong>mejor cPanel Hosting 2023</strong>, ya que he
+                como el <strong>mejor cPanel Hosting 2024</strong>, ya que he
                 utilizado este servicio de alojamiento web por más de 6 años y
                 en todo ese tiempo siempre se han preocupado por ofrecer la
                 última versión del cPanel, esto permite que al utilizar el

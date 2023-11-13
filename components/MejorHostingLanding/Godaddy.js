@@ -13,7 +13,7 @@ class MejorHostingGodaddy extends Component {
         <div className="container">
           <div className="faq-area-content">
             <span>5: GoDaddy</span>
-            <h2>Opiniones GoDaddy 2023</h2>
+            <h2>Opiniones GoDaddy 2024</h2>
             <p>
               GoDaddy es uno de los mejores proveedores de dominios alrededor
               del mundo, les he comprado dominios por más de una década, los

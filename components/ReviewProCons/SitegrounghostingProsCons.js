@@ -14,7 +14,7 @@ class SitegroundHostingSiteground extends Component {
         <div className="container">
           <div className="faq-area-content">
             <span>SiteGround</span>
-            <h2>SiteGround Pros & Cons 2023</h2>
+            <h2>SiteGround Pros & Cons 2024</h2>
             <p>
               SiteGround es uno de los Hostings más reconocidos a nivel mundial,
               en lo personal no me gusta tanto, esto principalmente se debe a

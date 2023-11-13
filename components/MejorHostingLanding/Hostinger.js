@@ -14,7 +14,7 @@ class MejorHostingHostinger extends Component {
         <div className="container">
           <div className="faq-area-content">
             <span>4: Hostinger</span>
-            <h2>Opiniones Hostinger 2023</h2>
+            <h2>Opiniones Hostinger 2024</h2>
             <p>
               Fundado en 2004 y con sus oficinas centrales en Kaunas, Lituania.
               Hostinger se ha convertido en uno de los servicios de hosting web

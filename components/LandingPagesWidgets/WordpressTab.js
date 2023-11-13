@@ -27,14 +27,14 @@ class WordpressTab extends Component {
       <section className="tab-section">
         <div className="container">
           <div className="section-title">
-            <h3>Mejor Hosting WordPress 2023</h3>
+            <h3>Mejor Hosting WordPress 2024</h3>
           </div>
           <div className="container"></div>
           <div className="container">
             <div className="content">
               <p>
                 Hemos elegido a BanaHosting como el{" "}
-                <strong>mejor hosting WordPress 2023</strong>, ya que nos ha
+                <strong>mejor hosting WordPress 2024</strong>, ya que nos ha
                 entregado mucha potencia para correr sitios creados con dicho
                 CMS, la razón por la que lo hemos colocado por encima de{" "}
                 <a href="mejor-hosting/raiola/">Raiola Networks Hosting</a> es

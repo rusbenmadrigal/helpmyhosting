@@ -13,7 +13,7 @@ class MejorHostingA2hosting extends Component {
         <div className="container">
           <div className="faq-area-content">
             <span>7: A2 Hosting</span>
-            <h2>Opiniones A2 Hosting 2023</h2>
+            <h2>Opiniones A2 Hosting 2024</h2>
             <p>
               Conocí A2 hosting en 2017, cuando por un problema de competencia
               desleal una persona envió a BanaHosting un documento falso con una

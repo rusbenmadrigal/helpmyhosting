@@ -14,7 +14,7 @@ class HostingerProsCons extends Component {
         <div className="container">
           <div className="faq-area-content">
             <span>Hostinger</span>
-            <h2>Hostinger Pros & Cons 2023</h2>
+            <h2>Hostinger Pros & Cons 2024</h2>
             <p>
               Fundado en 2004 y con sus oficinas centrales en Kaunas, Lituania.
               Hostinger se ha convertido en uno de los servicios de hosting web

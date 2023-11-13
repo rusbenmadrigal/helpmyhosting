@@ -27,7 +27,7 @@ class SslTab extends Component {
       <section className="tab-section">
         <div className="container">
           <div className="section-title">
-            <h3>El Mejor SSL Hosting 2023</h3>
+            <h3>El Mejor SSL Hosting 2024</h3>
           </div>
           <div className="container"></div>
           <div className="container">

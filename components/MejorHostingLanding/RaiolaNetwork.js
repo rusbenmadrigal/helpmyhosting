@@ -14,7 +14,7 @@ class MejorHostingRaiola extends Component {
         <div className="container">
           <div className="faq-area-content">
             <span>2: Raiola Networks</span>
-            <h2>Opiniones Raiola Networks 2023</h2>
+            <h2>Opiniones Raiola Networks 2024</h2>
             <p>
               Raiola Networks es un servicio de hosting web muy popular,
               principalmente en el mercado español, esto debido a que uno de sus

@@ -12,16 +12,16 @@ class Besthostingindex extends Component {
     return (
       <>
         <NextSeo
-          title="Mejor SSL Hosting Profesional 2023 | HelpMyHosting"
-          description="Encuentra el mejor SSL Hosting 2023 elegidos por nuestros expertos en hosting. Además, descuentos de hasta el 99% en el primer mes de contratación"
+          title="Mejor SSL Hosting Profesional 2024 | HelpMyHosting"
+          description="Encuentra el mejor SSL Hosting 2024 elegidos por nuestros expertos en hosting. Además, descuentos de hasta el 99% en el primer mes de contratación"
           canonical="https://helpmyhosting.com/mejor-hosting/ssl/"
         />
 
         <NavbarTwo />
 
         <PageBanner
-          pageTitle="Mejor SSL Hosting 2023"
-          breadcrumbTextTwo="Actualizado: octubre de 2023"
+          pageTitle="Mejor SSL Hosting 2024"
+          breadcrumbTextTwo="Actualizado: octubre de 2024"
           breadcrumbUrl="/"
         />
 

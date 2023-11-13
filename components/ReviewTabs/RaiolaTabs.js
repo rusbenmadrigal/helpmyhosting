@@ -28,7 +28,7 @@ class RaiolaTabs extends Component {
         <div className="container">
           <div className="section-title">
             <hr className="My-3" />
-            <h3>Planes Raiola Networks 2023</h3>
+            <h3>Planes Raiola Networks 2024</h3>
           </div>
 
           <div className="tab boosting-list-tab">

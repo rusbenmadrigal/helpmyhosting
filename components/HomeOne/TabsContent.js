@@ -22,7 +22,7 @@ class TabsContent extends Component {
       <section className="tab-section">
         <div className="container">
           <div className="section-title">
-            <span>Hosting 2023</span>
+            <span>Hosting 2024</span>
             <h3>Mejor Hosting Por Categoría</h3>
           </div>
 
@@ -80,7 +80,7 @@ class TabsContent extends Component {
                   <div className="container"></div>
                   <div className="container">
                     <div className="content">
-                      <h2>Los 3 Mejores Hosting 2023</h2>
+                      <h2>Los 3 Mejores Hosting 2024</h2>
                       <p>
                         A continuación podrás encontrar los{" "}
                         <strong> en español</strong> categorizados por nuestros
@@ -410,7 +410,7 @@ class TabsContent extends Component {
                   <div className="container"></div>
                   <div className="container">
                     <div className="content">
-                      <h2>Mejores Hosting WordPress 2023</h2>
+                      <h2>Mejores Hosting WordPress 2024</h2>
                       <p>
                         WordPress es el gestor de contenidos (CMS) de código
                         abierto más famoso del mundo, alrededor de un 25% de las
@@ -742,7 +742,7 @@ class TabsContent extends Component {
                   <div className="container"></div>
                   <div className="container">
                     <div className="content">
-                      <h2>Mejores Hosting E-commerce 2023</h2>
+                      <h2>Mejores Hosting E-commerce 2024</h2>
                       <p>
                         Si usted busca un hosting eCommerce debe tener en cuenta
                         que dicho servicio de alojamiento web debe ser
@@ -1083,7 +1083,7 @@ class TabsContent extends Component {
                   <div className="container"></div>
                   <div className="container">
                     <div className="content">
-                      <h2>Mejores Hosting Blogging 2023</h2>
+                      <h2>Mejores Hosting Blogging 2024</h2>
                       <p>
                         La creación de contenidos mediante un blog es una de las
                         mejores maneras de dar a conocer tu negocio, hoy en día
@@ -1410,7 +1410,7 @@ class TabsContent extends Component {
                   <div className="container"></div>
                   <div className="container">
                     <div className="content">
-                      <h2>Mejores Cloud Hostings 2023</h2>
+                      <h2>Mejores Cloud Hostings 2024</h2>
                       <p>
                         Se conoce como <strong>Cloud Hosting</strong> o{" "}
                         <strong>Servidor en la nube</strong>, al alojamiento web
@@ -1739,7 +1739,7 @@ class TabsContent extends Component {
                   <div className="container"></div>
                   <div className="container">
                     <div className="content">
-                      <h2>Mejores Hosting con Dominio 2023</h2>
+                      <h2>Mejores Hosting con Dominio 2024</h2>
                       <p>
                         Por lo general las personas compran el dominio con un
                         proveedor y el hosting con otro, esto podría ser bueno

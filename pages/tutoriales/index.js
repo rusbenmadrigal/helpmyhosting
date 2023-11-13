@@ -10,7 +10,7 @@ class Blog extends Component {
     return (
       <>
         <NextSeo
-          title="Tutoriales web hosting paso a paso 2023 | HelpMyHosting"
+          title="Tutoriales web hosting paso a paso 2024 | HelpMyHosting"
           description="Aprende como sacar el máximo provecho a tu hosting con nuestros tutoriales creados por expertos. Muchos proyectos de ejemplo aquí."
           canonical="https://helpmyhosting.com/tutoriales/"
         />

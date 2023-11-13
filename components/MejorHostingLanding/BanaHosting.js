@@ -14,10 +14,10 @@ class MejorHostingBanaHosting extends Component {
         <div className="container">
           <div className="faq-area-content">
             <span>1: BanaHosting</span>
-            <h2>Opiniones BanaHosting 2023</h2>
+            <h2>Opiniones BanaHosting 2024</h2>
             <p>
               De acuerdo con mi experiencia, BanaHosting es uno de los mejores
-              hostings de 2023, ofrece una gran variedad de servicios dentro de
+              hostings de 2024, ofrece una gran variedad de servicios dentro de
               sus diferentes planes, los cuales inician en $4.95. Cabe destacar
               que BanaHosting ofrece certificado SSL en todos sus planes, además
               todos sus planes de hosting tienen la ventaja de que son
